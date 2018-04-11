@@ -1,2 +1,2 @@
 # docs
-COllections of university reports
+a collections of university reports and writings
